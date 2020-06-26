@@ -3,7 +3,7 @@
     "displayName": "Studio Ghibli Inspired Themes",
     "description": "A set of dark syntax themes inspired by Studio Ghibli's movies for Visual Studio Code.",
     "publisher": "heyitschun",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "license": "MIT",
     "engines": {
         "vscode": "^1.46.0"
@@ -31,6 +31,10 @@
         ]
     },
     "homepage": "https://github.com/heyitschun/vscode-extensions/blob/master/ghibli-syntax-themes/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/heyitschun/vscode-extensions/tree/master/ghibli-syntax-themes"
+    },
     "keywords": [
         "ghibli",
         "dark",
