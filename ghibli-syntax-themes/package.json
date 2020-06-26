@@ -1,0 +1,40 @@
+{
+    "name": "ghibli-syntax-themes",
+    "displayName": "Studio Ghibli Inspired Themes",
+    "description": "A set of dark syntax themes inspired by Studio Ghibli movies for Visual Studio Code.",
+    "publisher": "heyitschun",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ghibli's My Neighbor Totoro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ghibli-My-Neighboy-Totoro-color-theme.json"
+            },
+            {
+                "label": "Ghibli's Kiki's Delivery Service",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ghibli-Kikis-Delivery-Service-color-theme.json"
+            },
+            {
+                "label": "Ghibli's Spirited Away",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ghibli-Spirited-Away-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "ghibli",
+        "dark",
+        "theme",
+        "syntax",
+        "movie",
+        "anime"
+    ]
+}
