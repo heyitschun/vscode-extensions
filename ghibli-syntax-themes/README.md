@@ -1,13 +1,8 @@
-# README
-## This is the README for your extension "ghibli-syntax-themes"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Studio Ghibli Inspired Syntax Themes
+Dark syntax themes for Visual Studio Code. Inspired by the wonderful colors used by Studio Ghibli.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Each syntax theme is based on a different movie. Feel free to clone the files and make changes to better suit your needs.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# License
 
-**Enjoy!**
+[The MIT License](https://raw.githubusercontent.com/heyitschun/ghibli-syntax-themes/master/LICENSE.txt) &copy; [Chun Poon](http://heyitschun.com)
