@@ -3,7 +3,7 @@
     "displayName": "Studio Ghibli Inspired Themes",
     "description": "A set of syntax themes inspired by Studio Ghibli's movies for Visual Studio Code.",
     "publisher": "heyitschun",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "license": "MIT",
     "engines": {
         "vscode": "^1.46.0"
@@ -27,6 +27,11 @@
                 "label": "Ghibli's Spirited Away",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Ghibli-Spirited-Away-color-theme.json"
+            },
+            {
+                "label": "Ghibli's The Wind Rises",
+                "uiTheme": "vs",
+                "path": "./themes/Ghibli-The-Wind-Rises-color-theme.json"
             }
         ]
     },
