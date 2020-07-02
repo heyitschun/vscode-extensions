@@ -127,6 +127,7 @@
 		"terminal.selectionBackground": "#6C6F934D",
 		"terminalCursor.background": "#5d9dc7",
 		"terminalCursor.foreground": "#fafafa80",
+		"quickInput.background": "#232323",
 		"debugToolBar.background": "#191919",
 		"walkThrough.embeddedEditorBackground": "#232530",
 		"gitDecoration.addedResourceForeground": "#27D797B3",
