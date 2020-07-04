@@ -3,7 +3,7 @@
     "displayName": "Studio Ghibli Inspired Themes",
     "description": "A set of syntax themes inspired by Studio Ghibli's movies for Visual Studio Code.",
     "publisher": "heyitschun",
-    "version": "0.2.6",
+    "version": "0.2.7",
     "license": "MIT",
     "engines": {
         "vscode": "^1.46.0"
