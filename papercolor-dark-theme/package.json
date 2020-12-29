@@ -1,0 +1,37 @@
+{
+  "name": "speed-of-sound-dark-syntax-theme",
+  "displayName": "Speed of Sound",
+  "description": "Dark syntax theme for Visual Studio Code.",
+  "publisher": "heyitschun",
+  "version": "0.2.7",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Speed of Sound Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/speed-of-sound-dark-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/heyitschun/vscode-extensions/blob/master/speed-of-sound-dark-syntax-theme/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heyitschun/vscode-extensions/tree/master/speed-of-sound-dark-syntax-theme"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "speed",
+    "dark",
+    "theme",
+    "syntax",
+    "simple",
+    "minimal"
+  ]
+}

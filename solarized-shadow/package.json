@@ -1,0 +1,36 @@
+{
+  "name": "solarized-shadow-syntax-theme",
+  "displayName": "Solarized Shadow",
+  "description": "A Solarized Dark syntax theme but with darker background colors for VSCode.",
+  "publisher": "heyitschun",
+  "version": "0.2.7",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Shadow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized-shadow-color-theme.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/heyitschun/vscode-extensions/blob/master/solarized-shadow-syntax-theme/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heyitschun/vscode-extensions/tree/master/solarized-shadow-syntax-theme"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "solarized",
+    "dark",
+    "theme",
+    "syntax",
+    "shadow"
+  ]
+}
